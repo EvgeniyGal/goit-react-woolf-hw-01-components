@@ -9,7 +9,7 @@ Acest proiect a fost creat cu ajutorul
 
 Utilizează acest repository al organizației GoIT ca model pentru crearea unui repository
 pentru proiectul tău. Pentru a face acest lucru, dă click pe "Use this template" și selectează opțiunea
-`Create a new repository`, după cum se prezintă în imagine.
+`Create a new repository`, după cum  se prezintă în imagine.
 
 ![Creating repo from a template step 1](./assets/template-step-1.png)
 
