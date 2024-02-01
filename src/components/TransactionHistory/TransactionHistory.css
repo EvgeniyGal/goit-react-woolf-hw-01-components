@@ -1,0 +1,28 @@
+.transaction-history {
+  width: 80%;
+  font-size: 20px;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.transaction-history thead {
+  color: antiquewhite;
+  background-color: darkcyan;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.transaction-history th {
+  height: 50px;
+  color: beige;
+  border: 1px solid white;
+}
+
+.transaction-history td {
+  height: 50px;
+  border: 1px solid gray;
+}
+
+.transaction-history tbody .even {
+  background-color: rgb(169, 169, 169);
+}
